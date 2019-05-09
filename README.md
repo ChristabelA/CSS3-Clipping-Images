@@ -1,1 +1,2 @@
 # CSS3-Clipping-Images
+I learnt how to make clipped images without the use of Photoshop. I used the CSS3 property, clip-path, which clips your images into any desired circle or polygon. To "draw" the polygon shapes, their points have to be used (for example, a square has 4 points) and each point is controlled by your input in its x and y attributes. Circles do not have points but they can be drawn using your input in their x and y attributes. 
